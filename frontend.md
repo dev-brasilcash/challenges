@@ -19,9 +19,9 @@ Pode ficar livre para desenvolver do jeito que você quiser, não temos _wirefra
 O link da API que você irá utilizar: https://documenter.getpostman.com/view/17299486/UVe9QUWc
 Essa documentação possui a collection do POSTMAN. Na documentação também possui exemplos de Request e Response.
 
-> A API necessita de autenticação. Que deve ir na HEADER __*x-functions-key*__. 
+> A API necessita de autenticação. Que é uma chave de api (API KEY) Que deve ir na HEADER __*x-functions-key*__. 
 > 
-> A CHAVE DE ACESSO ENVIAREMOS PARA VOCÊ NO E-MAIL DO TESTE.
+> A api key será enviada no e-mail do teste.
 
 - GET BRANDS - HTTP GET
   - Rota para exibir as bandeiras disponíveis.
